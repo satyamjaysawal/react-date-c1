@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-date"]=this["webpackJsonpreact-date"]||[]).push([[0],{4:function(e,t,r){"use strict";r.r(t);r(0);var n=r(2),s=r.n(n),a=r(3),c=new Date;c=c.getHours(),s.a.render(Object(a.jsxs)("h1",{children:[" Hello Sir , ",c," "]}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.fba24cae.chunk.js.map
